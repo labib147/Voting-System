@@ -1,5 +1,5 @@
 # Voting-System
-## Using bytes32 instead of string because it uses less gas than a string
+## Using bytes32 instead of string because it uses less gas than a string (less human readable but more efficient)
 
 Run the following commands for string to bytes 
 1. ls 
